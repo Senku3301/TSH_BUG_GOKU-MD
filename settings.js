@@ -11,15 +11,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "243891716833"
+global.ownernomer = "22899952910"
 global.ownername = "🌹MR KEVIN TSH🌹"
 global.ytname = "YT: alvinblaste...13"
 global.socialm = "GitHub: Kevin-Tsh"
 global.location = "Cong Kinshasa, Haut Katanga, Lubumbashi"
 
-global.ownernumber = '243891716833'  //creator number
-global.ownername = '🌹𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇🌹' //owner name
-global.botname = '🐲⸢𝐆𝐎𝐊𝐔-𝐌𝐃⸥🐲' //name of the bot
+global.ownernumber = '22899952910'  //creator number
+global.ownername = '🌹𝐌r PARFUNO🌹' //owner name
+global.botname = '🐲 PARFAIT M-MP🐲' //name of the bot
 
 //sticker details
 global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🐲🌹'
@@ -59,9 +59,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: '𝐃𝐨𝐧𝐞 !',
-    prem: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐜𝐚𝐧 𝐛𝐞 𝐮𝐬𝐞𝐝 𝐛𝐲 𝐩𝐫𝐞𝐦𝐢𝐮𝐦 𝐮𝐬𝐞𝐫 𝐨𝐧𝐥𝐲',
-    admin: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐜𝐚𝐧 𝐛𝐞 𝐮𝐬𝐞𝐝 𝐛𝐲 𝐚𝐝𝐦𝐢𝐧 𝐨𝐧𝐥𝐲',
+    done: '�'faitadministrateur être utilisé que qand je suis administrateur�',
     botAdmin: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐜𝐚𝐧 𝐨𝐧𝐥𝐲 𝐛𝐞 𝐮𝐬𝐞𝐝 𝐰𝐡𝐞𝐧 𝐭𝐡𝐞 𝐆𝐎𝐊𝐔-𝐌𝐃 𝐢𝐬 𝐚 𝐠𝐫𝐨𝐮𝐩 𝐚𝐝𝐦𝐢𝐧',
     owner: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐜𝐚𝐧 𝐛𝐞 𝐮𝐬𝐞𝐝 𝐛𝐲 𝐨𝐰𝐧𝐞𝐫 𝐨𝐧𝐥𝐲',
     group: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐠𝐫𝐨𝐮𝐩𝐬',
