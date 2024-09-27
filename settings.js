@@ -26,7 +26,7 @@ global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🐲🌹'
 global.author = '𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇'
 
 //console view/theme
-global.themeemoji = '🌹'
+global.themeemoji = '☣️'
 global.wm = "MR KEVIN TSH in©"
 
 //theme link
@@ -59,7 +59,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: '�'faitadministrateur être utilisé que qand je suis administrateur�',
+    done: '�'fait�',
     botAdmin: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐜𝐚𝐧 𝐨𝐧𝐥𝐲 𝐛𝐞 𝐮𝐬𝐞𝐝 𝐰𝐡𝐞𝐧 𝐭𝐡𝐞 𝐆𝐎𝐊𝐔-𝐌𝐃 𝐢𝐬 𝐚 𝐠𝐫𝐨𝐮𝐩 𝐚𝐝𝐦𝐢𝐧',
     owner: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐜𝐚𝐧 𝐛𝐞 𝐮𝐬𝐞𝐝 𝐛𝐲 𝐨𝐰𝐧𝐞𝐫 𝐨𝐧𝐥𝐲',
     group: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐠𝐫𝐨𝐮𝐩𝐬',
